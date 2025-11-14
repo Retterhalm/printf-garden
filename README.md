@@ -14,6 +14,5 @@ Each format of 'printf()' - is a different type of plant or object, while each v
 
 and so on.
 In parallel we can make a concept of variables, to avoid values in a 'printf()' command.
-Maybe add command 'scanf()' to realise some kind of orders to warehouse where items will be stored. 
-
-in progress...
+I am also planning  to add command 'scanf()' to realise some kind of orders to warehouse where items will be stored which represents memory and adresses.
+So we can play with several concepts : variables, formating printing and scanning, memory, size of different types of variables.

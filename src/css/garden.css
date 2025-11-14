@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+textarea { width: 500px; height: 120px; font-size: 16px; }
+button { margin: 5px; font-size: 16px; }
+table { border-collapse: collapse; margin-top: 10px; }
+td {
+  width: 40px; height: 40px;
+  border: 1px solid #555;
+  text-align: center; vertical-align: middle;
+  font-size: 28px;
+  font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+}
